@@ -1,0 +1,4 @@
+services:
+  quote.tss:
+    class: Drupal\quote\TheySaidSo
+    arguments: ["@config.factory", "@http_client", "@cache.default"]

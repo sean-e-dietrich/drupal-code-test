@@ -1,0 +1,5 @@
+name: 'They Said So Quotes'
+description: 'Interacts with the They Said So Quotes API'
+
+type: module
+core: 8.x

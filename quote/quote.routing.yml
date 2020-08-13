@@ -1,0 +1,7 @@
+quote.config:
+  path: '/admin/config/services/quote'
+  defaults:
+    _form:  '\Drupal\quote\Form\TheySaidSoSettingsForm'
+    _title: 'They Said So settings'
+  requirements:
+    _permission: 'administer they said so settings'
